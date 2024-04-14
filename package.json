@@ -13,7 +13,5 @@
     "url": "https://github.com/utilcode/simple-template.git"
   },
   "dependencies": {
-    "@scdb/simple-http": "^1.0.7",
-    "@utilcode/simple-http": "^1.0.1"
   }
 }
